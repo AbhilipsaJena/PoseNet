@@ -3,10 +3,11 @@ This is a simple p5.js sketch that uses the PoseNet machine learning model to de
 
 ### Getting Started
 Clone or download this repository to your local machine.
-Open the index.html file in a web browser.
-Dependencies
-This project relies on the following libraries:
 
+Open the index.html file in a web browser.
+
+### Dependencies
+This project relies on the following libraries:
 p5.js: A JavaScript library for creative coding.
 
 ml5.js: A library that simplifies working with machine learning models in JavaScript.
